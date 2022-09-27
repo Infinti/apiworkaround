@@ -1,0 +1,16 @@
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\Diziler.exe
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\Diziler.deps.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.dev.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\Diziler.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\ref\Diziler.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\bin\Debug\net5.0\Diziler.pdb
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.csproj.AssemblyReference.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfoInputs.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfo.cs
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.csproj.CoreCompileInputs.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\ref\Diziler.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.pdb
+D:\Derslerle ilgili belgelerim\staj video kod yeri\Diziler\Diziler\obj\Debug\net5.0\Diziler.genruntimeconfig.cache

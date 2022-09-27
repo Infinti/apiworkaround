@@ -1,0 +1,15 @@
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.exe
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.deps.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.runtimeconfig.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.runtimeconfig.dev.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ref\ArrayClass.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\bin\Debug\net5.0\ArrayClass.pdb
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.AssemblyInfoInputs.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.AssemblyInfo.cs
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.csproj.CoreCompileInputs.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ref\ArrayClass.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.pdb
+D:\Derslerle ilgili belgelerim\staj video kod yeri\ArrayClass\ArrayClass\obj\Debug\net5.0\ArrayClass.genruntimeconfig.cache
