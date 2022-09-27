@@ -1,0 +1,15 @@
+D:\Derslerle ilgili belgelerim\mic video staj\bin\Debug\net6.0\mic video staj.exe
+D:\Derslerle ilgili belgelerim\mic video staj\bin\Debug\net6.0\mic video staj.deps.json
+D:\Derslerle ilgili belgelerim\mic video staj\bin\Debug\net6.0\mic video staj.runtimeconfig.json
+D:\Derslerle ilgili belgelerim\mic video staj\bin\Debug\net6.0\mic video staj.dll
+D:\Derslerle ilgili belgelerim\mic video staj\bin\Debug\net6.0\mic video staj.pdb
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.csproj.AssemblyReference.cache
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.AssemblyInfoInputs.cache
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.AssemblyInfo.cs
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.csproj.CoreCompileInputs.cache
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.dll
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\refint\mic video staj.dll
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.pdb
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\mic video staj.genruntimeconfig.cache
+D:\Derslerle ilgili belgelerim\mic video staj\obj\Debug\net6.0\ref\mic video staj.dll

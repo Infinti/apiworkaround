@@ -1,0 +1,15 @@
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\bin\Debug\net6.0\linqAlistirma.exe
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\bin\Debug\net6.0\linqAlistirma.deps.json
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\bin\Debug\net6.0\linqAlistirma.runtimeconfig.json
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\bin\Debug\net6.0\linqAlistirma.dll
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\bin\Debug\net6.0\linqAlistirma.pdb
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.csproj.AssemblyReference.cache
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.AssemblyInfoInputs.cache
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.AssemblyInfo.cs
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.csproj.CoreCompileInputs.cache
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.dll
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\refint\linqAlistirma.dll
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.pdb
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\linqAlistirma.genruntimeconfig.cache
+D:\Derslerle ilgili belgelerim\Linq\alıstırma\linqAlistirma\linqAlistirma\obj\Debug\net6.0\ref\linqAlistirma.dll
