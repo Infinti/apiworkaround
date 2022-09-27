@@ -1,0 +1,15 @@
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\trycatch.exe
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\trycatch.deps.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\trycatch.runtimeconfig.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\trycatch.runtimeconfig.dev.json
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\trycatch.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\ref\trycatch.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\bin\Debug\net5.0\trycatch.pdb
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.AssemblyInfoInputs.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.AssemblyInfo.cs
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.csproj.CoreCompileInputs.cache
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\ref\trycatch.dll
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.pdb
+D:\Derslerle ilgili belgelerim\staj video kod yeri\trycatch\trycatch\obj\Debug\net5.0\trycatch.genruntimeconfig.cache
